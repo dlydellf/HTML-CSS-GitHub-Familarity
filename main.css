@@ -1,0 +1,41 @@
+:root {
+  box-sizing: border-box;
+}
+body {
+  background: fixed;
+  background-size: cover;
+  background-origin: border-box;
+  color:black;
+}
+section {
+  font-size: 20px;
+}
+div {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;;
+}
+footer {
+/*border: 1px solid red;*/
+  height: 100px;
+  margin: 10px; 
+  padding: 4px;
+  text-align: center;
+}
+.extras{
+  color: skyblue;
+}
+.reqd {
+  color: darkblue;
+}
+a:link {
+  color:blue;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color:green;
+}
+a:active {
+  color: orange;
+}
