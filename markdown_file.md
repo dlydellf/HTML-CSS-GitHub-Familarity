@@ -26,9 +26,10 @@
 
 # How to code (_Inline_ & __Block__):
 
-This is a `inline coding example` (contained within these: __`backticks`__)
+This is a `inline coding example` (contained within these: \` backticks \`)
 
 ```
 This entire thing
-is a *code block example
-(contained within these: ``` 3 backticks ```)```
+is a "code block" example
+(contained within these: ``` 3 backticks ```)
+```
